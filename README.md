@@ -20,7 +20,7 @@ Unity Joystick GUI used for many Robot Simulations
 - WASD keys
   - AD keys: Horizontal movement
   - WS keys: Vertical movement
-- Kinematcs Math
+- Kinematics - Math
   - ***TODO***: Design kinematic movement with Keybpard WASD keys input similarly to the Joystick Algorithm Mouse Input.
  
 ## Example Unity Grahics
