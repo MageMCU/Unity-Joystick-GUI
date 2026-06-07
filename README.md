@@ -14,7 +14,7 @@ Unity Joystick GUI used for many Robot Simulations
   - Joystick sub-unit 2D Vector
   - Joystick Algorithm
     - Input: Joystick Positions
-    - Output: **Left** and **Right** for a differential drive wheeled mobile (DWMR) robot fpr motor like values.
+    - Output: **Left** and **Right** for a differential drive wheeled mobile (**DWMR**) robot fpr motor like values.
 
 ## Keyboard Input
 - WASD keys
@@ -44,7 +44,8 @@ Unity Joystick GUI used for many Robot Simulations
 - MS Windows 11
 
 ## Purpose
-- Used by authur to study input-ouput devices (sensors & actuators respectively) in DWMR simulations.
+- Used by beginners to study robotics.
+- Used by authur to study input-ouput devices (sensors & actuators respectively) in **DWMR** simulations.
 - This Unity Project is given freely for developers to experiment in robotics. Please send comments of your development. TY.
 
 ## In Progress
