@@ -38,6 +38,10 @@ Unity Joystick GUI used for many Robot Simulations
   - **Complex UI Configuration**: While intuitive once set up, diving deep into the raw algorithm can be overwhelming for users who simply want plug-and-play functionality.
   - **Inconsistent Calibration**: Uncalibrated joysticks (or varying thresholds across different game engines) can lead to drift, missed inputs, or jittery character movements.
 
+## Platform
+- Unity 6.3 LTS
+- Editor: [VS Code](https://code.visualstudio.com)
+- 
 ## Purpose
 - Used by authur to study input-ouput devices (sensors & actuators respectively) in DWMR simulations.
 - This Unity Project is given freely for developers to experiment in robotics.
