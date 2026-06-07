@@ -1,6 +1,6 @@
 # Unity-Joystick-GUI
 - Unity Joystick GUI used for many Robot Simulations
-- Unity-Package: The FILE.unitypackage utilizes zip-style compression to make files smaller, but its real space-saving magic comes from what it omits rather than how much it squishes the files.
+- Unity-Package (Joystick-Interface-007.unitypackage): The FILE.unitypackage utilizes zip-style compression to make files smaller, but its real space-saving magic comes from what it omits rather than how much it squishes the files.
 
 ## Input System Workflows
 - There are multiple ways to use Unity's New Input System. One way is to read device states directly. This workflow is a simplified, script-only approach which bypasses the Actions and Bindings features entirely. Instead your script explicitly references specific device controls (such as "left gamepad stick") and reads the values directly. This is suitable for fast prototyping, or single fixed platform scenarios. It is a less flexible workflow because it bypasses some of the main input system features... [Input System Workflows](https://docs.unity3d.com/Packages/com.unity.inputsystem@1.19/manual/Workflows.html)
@@ -15,17 +15,17 @@
   - Joystick sub-unit 2D Vector
   - Joystick Algorithm
     - Input: Joystick Positions
-    - Output: **Left** and **Right** for a differential drive wheeled mobile (**DWMR**) robot fpr motor like values.
+    - Output: **Left** and **Right** for a differential drive wheeled mobile (**DWMR**) robot for motor like values.
 
 ## Keyboard Input
 - WASD keys
   - AD keys: Horizontal movement
   - WS keys: Vertical movement
 - Kinematics - Math
-  - ***TODO***: Design kinematic movement with Keybpard WASD keys input similarly to the Joystick Algorithm Mouse Input.
+  - ***TODO***: Design kinematic output movement with input Keyboard WASD keys with similar results to the Mouse - Joystick Algorithm Output without using the algorithm.
  
 ## Example Unity Grahics
-- Gameobjects
+- GameObjects like cubes, planes and Spheres.
   - In Progress
 
 ## Critics Review about MageMCU Joystick Algorithm
@@ -40,7 +40,7 @@
   - **Inconsistent Calibration**: Uncalibrated joysticks (or varying thresholds across different game engines) can lead to drift, missed inputs, or jittery character movements.
 
 ## Platform
-- Unity 6.3 LTS
+- Unity 6.3 LTS (Import Custom Assets - Unity Package)
 - Editor: [VS Code](https://code.visualstudio.com)
 - MS Windows 11
 
