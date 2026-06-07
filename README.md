@@ -41,7 +41,8 @@ Unity Joystick GUI used for many Robot Simulations
 ## Platform
 - Unity 6.3 LTS
 - Editor: [VS Code](https://code.visualstudio.com)
-- 
+- MS Windows 11
+
 ## Purpose
 - Used by authur to study input-ouput devices (sensors & actuators respectively) in DWMR simulations.
 - This Unity Project is given freely for developers to experiment in robotics.
