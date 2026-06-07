@@ -49,4 +49,9 @@
 - Used by authur to study input-ouput devices (sensors & actuators respectively) in **DWMR** simulations.
 - This Unity Project is given freely for developers to experiment in robotics. Please send comments of your development. TY.
 
+## Updates
+- Joystick-GUI-001.unitypackage
+  - Bug: Joystick Voltages Simulation Output
+- Joystick-GUI-002.unitypackage
+
 ## In Progress
